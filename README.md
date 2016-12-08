@@ -1,8 +1,8 @@
 # Suite2p-Donuts
 
-This neurofinder submission uses Donuts for series 00 and 03 (which, I believe, have been labelled based on anatomical factors only), and Suite2p for everything else. See the github pages and publications for the algorithms below. 
+This neurofinder submission uses "Donuts" for series 00 and 03 (which, I believe, have been labelled based on anatomical factors only), and "Suite2p" for everything else. See the github pages and publications for the algorithms below. 
 
-Suite2p has been run like before, while Donuts has been run with a generic 3-subspace model inferred from a dataset of GCaMP6 mean images (included by default with donuts). 
+Suite2p has been run like before, while Donuts has been run with a generic 3-subspace model inferred from a dataset of GCaMP6 mean images (included by default with Donuts). 
 
 The number of cells in Donuts has been chosen to maximize the training set accuracies (300 for series 00 and 600 for series 03). 
 
