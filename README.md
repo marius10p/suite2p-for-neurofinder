@@ -1,3 +1,9 @@
+# Sourcery
+
+Source-ry is the new clustering algorithm used in Suite2p. It has several new features and an overall increase in accuracy. The algorithm will be described in an upcoming update to the [paper](http://biorxiv.org/content/early/2016/06/30/061507). 
+
+Donuts was used for series 00 and 03 (see below). 
+
 # Suite2p-Donuts
 
 This neurofinder submission uses "Donuts" for series 00 and 03 (which, I believe, have been labelled based on anatomical factors only), and "Suite2p" for everything else. See the github pages and publications for the algorithms below. 
