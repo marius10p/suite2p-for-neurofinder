@@ -1,6 +1,6 @@
 # Sourcery
 
-Source-ry is the new clustering algorithm used in Suite2p. It has several new features and an overall increase in accuracy. The algorithm will be described in an upcoming update to the [paper](http://biorxiv.org/content/early/2016/06/30/061507). 
+Source-ry is the new clustering algorithm used in Suite2p. It has several new features and an overall increase in accuracy and automation. The algorithm will be described in an upcoming update to the [paper](http://biorxiv.org/content/early/2016/06/30/061507). 
 
 Donuts was used for series 00 and 03 (see below). 
 
